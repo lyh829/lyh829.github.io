@@ -25,12 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yihan LIU"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Guangzhou, China"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yliu135@connect.hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
