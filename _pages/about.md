@@ -28,7 +28,7 @@ Research Interests
 
 Internship Experience
 ======
-* The Hong Kong University of Science and Technoloty (Guangzhou)
+* The Hong Kong University of Science and Technology (Guangzhou)
   * Reasearch Assistant
   * 02/2025-08/2025
   * Guangzhou
