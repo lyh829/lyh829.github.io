@@ -26,7 +26,7 @@ Research Interests
 * Embodied Intelligence
 * AI + Marine Robot
 
-Internship experience
+Internship Experience
 ======
 * The Hong Kong University of Science and Technoloty (Guangzhou)
   * Reasearch Assistant
